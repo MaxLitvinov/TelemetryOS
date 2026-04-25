@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/27091299/README.1.md)
 # TelemetryOS — Real-time Telemetry Dashboard
 ---
 
