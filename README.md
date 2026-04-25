@@ -14,10 +14,10 @@
 ┌─────────────────────────────────────────────────────────────┐
 │                   Node.js Backend (Express + ws)            │
 │                                                             │
-│   POST /api/ingest   →  circular buffer  →  WS broadcast   │
-│   GET  /api/metrics  →  snapshot                           │
-│   GET  /api/events   →  filtered log query                 │
-│   GET  /api/health   →  uptime                             │
+│   POST /api/ingest   →  circular buffer  →  WS broadcast    │
+│   GET  /api/metrics  →  snapshot                            │
+│   GET  /api/events   →  filtered log query                  │
+│   GET  /api/health   →  uptime                              │
 └─────────────────────────────────────────────────────────────┘
 ```
 
