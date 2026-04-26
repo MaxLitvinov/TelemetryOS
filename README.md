@@ -8,7 +8,7 @@
 │                        CLIENTS                              │
 │         React Dashboard     │    curl / Postman / SDK       │
 └──────────────┬──────────────┴──────────────┬────────────────┘
-               │ WebSocket (ws://)            │ HTTP REST
+               │ WebSocket (ws://)           │ HTTP REST
                ▼                             ▼
 ┌─────────────────────────────────────────────────────────────┐
 │                   Node.js Backend (Express + ws)            │
